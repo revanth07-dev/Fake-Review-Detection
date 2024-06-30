@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"check",
+				"checkusername"
+			],
+			[
+				"result",
+				"result3"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"r",
+				"render_template"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"F",
+				"Flask"
+			],
+			[
+				"s",
+				"sqlite3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 5062,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKQGAAAAAAAApAYAAAAAAAABAAAACg",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKUGAAAAAAAApQYAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/ginnu/OneDrive/Desktop/py1/first.py",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/Fake_Review_Classifier_using_Machine_Learning.ipynb",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/.ipynb_checkpoints/Fake_Review_Classifier_using_Machine_Learning-checkpoint.ipynb",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/templates/login.html",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/templates/home.html",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/templates/register.html",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/app.sublime-workspace",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/dataset.csv",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/app.py",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/static/style.css",
+		"/C/Users/ginnu/OneDrive/Desktop/templates1/register.html",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/static/styles_login.css",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/static/styles.css",
+		"/C/Users/ginnu/OneDrive/Desktop/templates/login.html",
+		"/C/Users/ginnu/OneDrive/Desktop/templates/home.html",
+		"/C/Users/ginnu/OneDrive/Desktop/OBJECT FALL DETECTION/OBJECT DETECTION/SOURCECODE/app.py",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/templates/registration.html",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/db.py",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/db.sql",
+		"/C/Users/ginnu/Downloads/majorProject/views/login.ejs",
+		"/C/Users/ginnu/Downloads/majorProject/views/partials/header.ejs",
+		"/C/Users/ginnu/Downloads/majorProject/views/register.ejs",
+		"/C/Users/ginnu/Downloads/majorProject/views/home.ejs",
+		"/C/Users/ginnu/OneDrive/Desktop/Project/Fake_Review_Detection/xgb_fake_review_predictor.pkl"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ginnu/OneDrive/Desktop/py1/first.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
